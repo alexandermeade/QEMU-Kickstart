@@ -1,11 +1,8 @@
 ## Project Overview
 
-| Feature      | Description |
-|-------------|------------|
-| 🛠 **Tech Stack** | List your technologies here (e.g., SvelteKit, Supabase, etc.) |
-| 📂 **Repository** | [GitHub Repo](https://github.com/yourusername/reponame) |
-| 🚀 **Live Demo** | [Demo Link](https://your-demo-link.com) |
-| 📖 **Documentation** | [Docs](https://your-docs-link.com) |
+|   Accelerator    | Host OS | Host Architectures |
+|---------|----|------------|
+|KVM      |Linux| Arm (64 bit only), MIPS, PPC, RISC-V, s390x, x86|
 
 ## Installation
 
